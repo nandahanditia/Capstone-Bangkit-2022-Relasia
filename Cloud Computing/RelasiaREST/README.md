@@ -2,12 +2,13 @@
 
 Relasia REST-API: App to Database
 
+
 # How to Use
 
 - Local Host: Run with python, local IP and Port:5000
   `http://127.0.0.1:5000/` or `http://localhost:5000/`
 - Online Domain:
-  `https://relasia-api.herokuapp.com/`
+  `https://_.com/`
 
 # Endpoint Route
 
